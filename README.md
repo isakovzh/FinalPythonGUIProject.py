@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **python projects**
 
-- 🌱 I’m currently learning **Python, PIL,Tkinter,Turtle**
+- 🌱 I’m currently learning **Python, PIL,Tkinter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/isakovzh](https://github.com/isakovzh)
 
